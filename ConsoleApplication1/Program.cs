@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             // GIT GUD SCRUB
             
-            System.Console.WriteLine("Hello, World!");
+            System.Console.WriteLine("BONJOUR, GID GUD!");
         }
     }
 }
