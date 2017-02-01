@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            // GIT GUD
             System.Console.WriteLine("Hello, World!");
         }
     }
